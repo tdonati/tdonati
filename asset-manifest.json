@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.5c0e292b.js",
-    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.5c0e292b.js.map": "/static/js/main.5c0e292b.js.map",
-    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
+    "main.css": "/tdonati/static/css/main.073c9b0a.css",
+    "main.js": "/tdonati/static/js/main.6f22c5a4.js",
+    "static/js/787.71e672d5.chunk.js": "/tdonati/static/js/787.71e672d5.chunk.js",
+    "static/media/logo.svg": "/tdonati/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tdonati/index.html",
+    "main.073c9b0a.css.map": "/tdonati/static/css/main.073c9b0a.css.map",
+    "main.6f22c5a4.js.map": "/tdonati/static/js/main.6f22c5a4.js.map",
+    "787.71e672d5.chunk.js.map": "/tdonati/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5c0e292b.js"
+    "static/js/main.6f22c5a4.js"
   ]
 }
